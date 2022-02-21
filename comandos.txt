@@ -1,0 +1,16 @@
+git init // iniciar git
+
+git status // Estado de los archivos
+
+git add "Nombre archivo" // Agregar archivos al git
+
+cls // Limpiar la consola
+
+git commit // Subir archivos al repositorio
+
+git config --global user.email "camilo.toro5@misena.edu.co"
+git config --global user.name "Camilo"
+
+git config --list //Saber informacion del git
+
+git log
